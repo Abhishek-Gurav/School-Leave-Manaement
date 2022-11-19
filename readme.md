@@ -29,5 +29,4 @@ This project is an interactive leave application portal which includes Student l
 
 ![slm](https://i.ibb.co/P5Gmrt3/154.png)
 ![student](https://i.ibb.co/dm5n6Jn/155.png)
-![HOD](https://i.ibb.co/PDZ4Gvk/156.png)
 ![Login](https://i.ibb.co/nP1LGF6/153.png)
